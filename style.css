@@ -1,0 +1,28 @@
+body{background-color: aqua;
+    color: gold;
+    align-content: center;
+}
+h1{
+    background-color: purple;
+    text-align: center;
+    border-radius: 30px;
+}
+#product {
+    width: 250px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+  }
+  #buy{background-color: purple;
+    color: gold;
+    align-content: center;
+    border-radius: 30px
+}
+h4{
+    color:blue
+}
+button{background-color: purple;
+    color: gold;
+    align-content: center;
+    border-radius: 30px
+}
