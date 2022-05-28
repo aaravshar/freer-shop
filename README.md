@@ -1,2 +1,3 @@
 # freer-shop
-The best shopping platform
+The best fake shopping platform 
+for everyone 
